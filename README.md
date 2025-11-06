@@ -1,5 +1,7 @@
 # GC-Ridge Training Pipeline
 
+This repository presents the complete end-to-end pipeline for training and evaluating the Graph Convolutional Ridge (GC-Ridge) regression model developed for the [Mitsui Commodity Prediction Challenge](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge). The implementation includes data preparation, model training, post-processing techniques, and comprehensive evaluation metrics, achieving a validation Sharpe ratio of 0.42+ on the competition validation period.
+
 ## Competition Overview
 
 The Mitsui Commodity Prediction Challenge addresses the critical need for accurate and stable long-term commodity price forecasting. The competition requires participants to predict future commodity returns using historical data from London Metal Exchange (LME), Japan Exchange Group (JPX), US Stock, and Forex markets. Accurate predictions are essential for optimizing trading strategies, managing financial risk, and enabling more informed investment decisions in global commodity markets.
@@ -237,4 +239,4 @@ If training is slow:
 
 ## Acknowledgments
 
-This pipeline was developed for the Mitsui Commodity Prediction Challenge and achieved 0.42+ Sharpe ratio on validation data.
+This pipeline was developed for the Mitsui Commodity Prediction Challenge.

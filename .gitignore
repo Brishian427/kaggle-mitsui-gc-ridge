@@ -58,3 +58,6 @@ output/*.json
 .env
 .env.local
 
+# Local guide files (not for repository)
+GITHUB_UPLOAD_INSTRUCTIONS.md
+
