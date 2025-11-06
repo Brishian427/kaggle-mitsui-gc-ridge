@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files
+output/*.npy
+output/*.pkl
+output/*.csv
+output/*.json
+!output/README.md
+
+# Data files (if they contain sensitive/large data)
+# Uncomment if you don't want to commit data files
+# data/*.pkl
+# data/*.npz
+# data/*.csv
+# !data/README.md
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
