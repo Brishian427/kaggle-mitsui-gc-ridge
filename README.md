@@ -282,10 +282,6 @@ If training is slow:
 - `TECHNICAL_CHALLENGES.md`: Detailed explanation of how technical challenges (NaN handling, temporal leakage, overfitting, alignment) were addressed
 - `technical_challenges_examples/`: Code examples demonstrating technical challenge solutions
 
-## License
-
-[Add your license information here]
-
 ## Acknowledgments
 
 This pipeline was developed for the Mitsui Commodity Prediction Challenge.
