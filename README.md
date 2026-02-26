@@ -1,3 +1,8 @@
+# Competition Outcome
+I won a Silver Medal for placing 46th place in MITSUI&CO. Commodity Prediction Challenge.
+https://www.kaggle.com/certification/competitions/brishian/mitsui-commodity-prediction-challenge
+<img width="4800" height="2960" alt="image" src="https://github.com/user-attachments/assets/44310f5a-1ef4-4338-9ce5-834be6d490d2" />
+
 # GC-Ridge Training Pipeline
 
 This repository presents the complete end-to-end pipeline for training and evaluating the Graph Convolutional Ridge (GC-Ridge) regression model developed for the [Mitsui Commodity Prediction Challenge](https://www.kaggle.com/competitions/mitsui-commodity-prediction-challenge). The implementation includes data preparation, model training, post-processing techniques, and comprehensive evaluation metrics. **Important Note:** This pipeline achieved a Sharpe ratio of 0.42+ on local validation (dates 1829-1950); this represents local validation performance only and does not reflect the actual competition submission result.
