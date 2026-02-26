@@ -1,6 +1,5 @@
 # Competition Outcome
 I won a Silver Medal for placing 46th place in MITSUI&CO. Commodity Prediction Challenge.
-https://www.kaggle.com/certification/competitions/brishian/mitsui-commodity-prediction-challenge
 <img width="4800" height="2960" alt="image" src="https://github.com/user-attachments/assets/44310f5a-1ef4-4338-9ce5-834be6d490d2" />
 
 # GC-Ridge Training Pipeline
